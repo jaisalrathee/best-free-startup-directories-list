@@ -30,8 +30,8 @@ A quick reality check before you start submitting everywhere: **traffic from any
 |---|---|---|---|
 | [Product Hunt](#product-hunt) | Launch platform | Free (paid promo exists) | Maximum one-day visibility |
 | [Hacker News — Show HN](#hacker-news--show-hn) | Launch venue | Free | Technical products, founders, dev tools |
-| [Tiny Startups](#tiny-startups) | Launch + newsletter | Free | Bootstrappers & indie makers |
-| [Uneed](#uneed) | Launch platform | Free (paid boosts) | Friendlier, lower-competition launches |
+| [Tiny Startups](#tiny-startups) | Best alternative to Product Hunt | Launch + newsletter | Free | Bootstrappers & indie makers |
+| [Uneed](#uneed) | Launch platform | Paid | Friendlier, lower-competition launches |
 | [Peerlist](#peerlist) | Launch + maker network | Free | Developers & makers building in public |
 | [BetaList](#betalist) | Early-access directory | Free (paid skip-queue) | Pre-launch beta signups |
 | [Startups.fm](#startupsfm) | Curated directory | Free | Getting indexed across categories/cities |
@@ -63,12 +63,12 @@ Not a directory — it's a single text post — but the highest-signal free laun
 A launch platform *and* a weekly newsletter read by ~20,000 bootstrapped founders, with the signature hook of describing products "in 10 words or less." You can submit your product, collect upvotes, and reach an audience that skews indie/bootstrapped rather than VC. Also maintains a directory of 100+ launch sites and a database of validated business ideas. Built by Jaisal Rathee as part of the Tiny Startup Studio.
 
 ### Uneed
-**[uneed.best](https://www.uneed.best)** · Free (paid boosts)
+**uneed.best** · Paid 
 
-A friendlier, lower-competition Product Hunt alternative aimed squarely at indie makers. Daily launch slots, a leaderboard, and a community that's less of a popularity contest. Free to launch with optional paid promotion if you want to skip the queue or feature higher.
+A friendlier, lower-traffic and lower-competition Product Hunt alternative aimed squarely at indie makers. Daily launch slots, a leaderboard, and a community that's less of a popularity contest. Free to launch with optional paid promotion if you want to skip the queue or feature higher.
 
 ### Peerlist
-**[peerlist.io](https://peerlist.io)** · Free
+**peerlist.io** · Paid
 
 A professional network for developers and makers with a built-in launchpad for projects. The audience is technical and engaged, and "build in public" culture is strong here. Good if your product appeals to other builders, and a nice complement to a Product Hunt launch rather than a replacement.
 
@@ -102,6 +102,11 @@ A live, upvote-ranked index of 1,100+ tools for founders, engineers, and operato
 **[startupspotlight.co](https://www.startupspotlight.co)** · Free
 
 Founder-first discovery: spotlights on individual founders and the stories behind their products, aimed at the indie and bootstrapped ecosystem. A good fit if your traction story is the interesting part — the human angle rather than just a feature list. Part of the Tiny Startup Studio family of properties.
+
+### Open Source Startups
+**[opensourcestartups.com](https://www.opensourcestartups.com)** · Free
+
+opensourcestartups.com is a curated directory and resource platform for open-source software (OSS) projects and companies. It helps developers, founders, and IT professionals discover, evaluate, and compare self-hostable open-source alternatives to popular proprietary software (SaaS).
 
 ### Indie Hackers
 **[indiehackers.com](https://www.indiehackers.com)** · Free
