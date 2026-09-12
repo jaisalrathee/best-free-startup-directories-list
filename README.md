@@ -112,6 +112,13 @@ opensourcestartups.com is a curated directory and resource platform for open-sou
 **[indiehackers.com](https://www.indiehackers.com)** · Free
 
 Less a directory, more a community with a product directory attached — and one of the best places on the internet for bootstrapped founders. You won't get a flood of traffic, but you'll get honest feedback, peers building similar things, and a culture of revenue transparency that's rare elsewhere. Worth a profile even if it never sends you a single user.
+### SaaSCity
+**[saascity.io](https://saascity.io)** · Free
+
+A gamified SaaS directory where every approved listing becomes a building on a live isometric city map — each product gets an indexed page and a spot in the skyline. Free submission with human review, usually live within 24 hours. A quirky but real discovery surface plus a clean dofollow backlink.
+
+---
+
 
 ---
 
