@@ -88,6 +88,11 @@ Evergreen listings rather than dated launches. The payoff is long-tail discovery
 
 A genuinely curated directory of 1,600+ hand-picked early-stage startups across AI, SaaS, DevTools, Fintech, and more — browsable by country, city, and category, and clearly tagged bootstrapped vs. VC-funded. Free to get listed, with an embeddable "Featured on Startups.fm" badge. One of the cleaner, more legit directories in this space.
 
+### 51发现导航
+**[51cgw9.cc](https://51cgw9.cc)** · Free
+
+A Chinese-language directory of 1,000+ manually checked AI tools and websites, with labels for China direct access and free tiers. Free to submit at [51cgw9.cc/submit](https://51cgw9.cc/submit/), no backlink required. Useful if you want your AI product in front of Chinese-speaking users.
+
 ### SaaS.fyi
 **[saas.fyi](https://www.saas.fyi)** · Free
 
